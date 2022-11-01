@@ -1,0 +1,21 @@
+.pet-detail-img {
+    display: inline-block;
+}
+.pet-detail-img img {
+    width: 150px;
+    margin: 10px;
+}
+
+.pet-detail-text{
+    display: inline-block;
+    position: relative;
+    bottom: 15px;
+}
+
+button {
+    color: #009;
+    font: inherit;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}

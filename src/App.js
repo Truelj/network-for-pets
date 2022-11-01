@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import {Directory} from './Directory.js';
 import {PetProfile} from './PetProfile.js';
+import  './style.css';
+
 function App() {
   const [currentUser, setCurrentUser] = useState(null);
   
